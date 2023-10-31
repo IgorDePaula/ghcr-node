@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IgorDePaula/ghcr-node"
+    "url": "https://github.com/IgorDePaula/ghcr-node"
   },
   "devDependencies": {
     "@commitlint/cli": "^18.2.0",
