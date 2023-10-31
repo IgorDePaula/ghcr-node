@@ -22,6 +22,10 @@
       "header-max-length": [0, "always", "Infinity"]
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorDePaula/ghcr-node"
+  },
   "devDependencies": {
     "@commitlint/cli": "^18.2.0",
     "@commitlint/config-conventional": "^18.1.0",
